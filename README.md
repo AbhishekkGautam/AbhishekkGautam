@@ -5,7 +5,7 @@
 👨‍💻&nbsp; I’m currently working on a client project!<br/>
 ✌️&nbsp; I build websites/webapps using MERN stack & JAMstack.<br/>
 🤝&nbsp; I’m helping new startups & local businesses in building their online presence.<br/>
-🎯&nbsp; 2020 Goals: Mostly focus on freelancing and learn more about JAMstack.<br/>
+🎯&nbsp; 2021 Goals: Mostly focus on freelancing and learn more about JAMstack.<br/>
 ⚡&nbsp; Fun fact: I prefer tea while coding & reading books.
 
 ### Connect with me: 👥
