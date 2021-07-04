@@ -37,7 +37,7 @@
 
 ---
 
-[website]: https://abhishekgautam.me
-[twitter]: https://twitter.com/im_avigautam
-[instagram]: https://instagram.com/im_avishek
+[website]: https://abhishekgautam.netlify.app
+[twitter]: https://twitter.com/helloAbhishekk
+[instagram]: https://instagram.com/abhishekgautam.ig
 [linkedin]: https://www.linkedin.com/in/abhishek-gautam-54684a167/
