@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek Gautam 👋
 
-## I'm a Web Developer, Designer, and Freelancer!
+## I'm a Web App Developer, and Freelancer!
 
 👨‍💻&nbsp; I’m currently working on a client project!<br/>
 ✌️&nbsp; I build websites/webapps using MERN stack & JAMstack.<br/>
