@@ -38,7 +38,11 @@
 
 ---
 
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekkGautam&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekkGautam)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishekgautam)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
 
 [website]: https://abhishekgautam.netlify.app
 [twitter]: https://twitter.com/helloAbhishekk
