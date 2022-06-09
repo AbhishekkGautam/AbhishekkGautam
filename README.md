@@ -2,10 +2,9 @@
 
 ### About Me 
 
-👨‍💻&nbsp; I’m currently working on a client project!<br/>
-✌️&nbsp; I build web apps using MERN stack & JAMstack.<br/>
-🤝&nbsp; I’m helping US based SaaS startups in building their online presence.<br/>
-🎯&nbsp; 2021 Goals: Mostly focus on freelancing and learn more about JAMstack & Cloud.<br/>
+👨‍💻&nbsp; I’m currently working on a social media app - Circle. <br/>
+✌️&nbsp; I build web apps using ReactJS, Redux Toolkit, Firebase & Tailwind CSS.<br/>
+🎯&nbsp; 2022 Goals: Get a frontend developer job (remote) and learn more about Typescript & DevOps.<br/>
 ⚡&nbsp; Fun fact: I prefer tea while coding & reading books.
 
 ### Connect with me
