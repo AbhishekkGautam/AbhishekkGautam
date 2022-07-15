@@ -7,41 +7,57 @@
 🎯&nbsp; 2022 Goals: Get a frontend developer job (remote) and learn more about Typescript & DevOps.<br/>
 ⚡&nbsp; Fun fact: I prefer tea while coding & reading books.
 
+## Experience
+### Freelancer <br/>
+```React | Gatsby | GraphQL | CMS```
+- Worked on e-commerce web apps & landing pages.
+- Delivered an e-commerce app from wire-framing to CI/CD integration in 6 days.
+
+## Projects
+[code prime - video library app](https://codeprime.netlify.app/)
+- A responsive web app built with React & mock backend.
+- Users can watch videos, like/dislike, take notes, manage playlists/watch later/history.
+- Users can search for videos by keyword & filter them using tags.
+- Used the JWT for authentication.
+
+[circle - social media app](https://circle-social.netlify.app/)
+- A responsive web app built with React, Redux Toolkit & Tailwind CSS.
+- Users can create/edit/delete a post, also like/dislike, comment & bookmark the post.
+- Users can see posts on the feed & filter them by trending, recent & oldest.
+- Users can follow/unfollow, edit profile info, upvote/downvote comments, and login/signup.
+
+[nextstore - e-commerce app](https://nextstore-beta.netlify.app/)
+- A responsive web app built with React, mock backend & Razorpay checkout.
+- Users can search & filter products by keyword, categories, brands, price, rating & cash on delivery.
+- Users can add/remove products to/from wishlist & cart, update quantity, apply coupons & checkout.
+- Featured products section, single product page & authentication using JWT.
+
+[kool quiz - quiz app](https://koolquizz.netlify.app/)
+- A responsive web app built with React, TypeScript & Firebase.
+- Users can play a quiz that has MCQ-based questions, see the rules & final score with correct answers.
+- Uses Firestore for database & Firebase Auth for email/password-based login/signup.
+
+[moment ui](https://momentui.netlify.app/)
+- A lightweight CSS framework for building fast and flexible interfaces using pre-defined style classes,
+built with HTML, CSS & JavaScript.
+
+## Accomplishments
+<b>Blue Wallet - React Native app</b>
+- Users can manage their monthly expenses with a detailed overview of any particular month.
+- Got 3.5k+ downloads with a 4.2 average rating on the Google play store.
+
+<b>Hacktoberfest - 2019 & 2020</b>
+
+## Languages and Frameworks
+`JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` `Jest`
+
 ### Connect with me
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [Twitter][twitter]
+- [LinkedIn][linkedin]
+- [Instagram][instagram]
 
 <br />
-
-### Languages and Frameworks
-
-<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
-<!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-<!-- <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
-<!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
-
-<br />
-<br />
-
-
----
-
-<!-- [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekkGautam)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishekgautam)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
 
 [website]: https://abhishekgautam.netlify.app
 [twitter]: https://twitter.com/helloAbhishekk
