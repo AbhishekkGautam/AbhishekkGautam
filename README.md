@@ -1,5 +1,13 @@
-## Hey 👋 ,  I'm Abhishek!
+## Hey,  I'm Abhishek Gautam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+Currently, I am working at Blue Sky Analytics, a climate tech-based startup as a front-end engineer. 
+
+[![Abhishek's GitHub Stats](https://github-readme-stats-two-silk.vercel.app/api?username=AbhishekkGautam&hide=issues&count_private=true&show_icons=true&show=reviews&theme=calm)](https://github.com/AbhishekkGautam/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats-two-silk.vercel.app/api/top-langs/?username=AbhishekkGautam&layout=compact&theme=calm&count_private=true)](https://github.com/AbhishekkGautam/github-readme-stats)
+-->
+
+<!--
 ### About Me 
 
 👨‍💻&nbsp; I’m currently working on a social media app - Circle. <br/>
@@ -63,3 +71,5 @@ built with HTML, CSS & JavaScript.
 [twitter]: https://twitter.com/helloAbhishekk
 [instagram]: https://instagram.com/abhishekgautam.ig
 [linkedin]: https://www.linkedin.com/in/abhishek-gautam-54684a167/
+-->
+
