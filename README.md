@@ -2,7 +2,13 @@
 
 Currently, I am working at Blue Sky Analytics, a climate tech-based startup as a front-end engineer. 
 
-[![Abhishek's GitHub Stats](https://github-readme-stats-two-silk.vercel.app/api?username=AbhishekkGautam&hide=issues&count_private=true&show_icons=true&show=reviews&theme=calm)](https://github.com/AbhishekkGautam/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekkGautam&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekkGautam" /> </p>
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekkGautam&show_icons=true&locale=en&layout=compact" alt="AbhishekkGautam" /></p>
+-->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekkGautam&hide=issues&count_private=true&show_icons=true&show=reviews&theme=calm" alt="AbhishekkGautam" /></p>
+
 <!--
 [![Top Langs](https://github-readme-stats-two-silk.vercel.app/api/top-langs/?username=AbhishekkGautam&layout=compact&theme=calm&count_private=true)](https://github.com/AbhishekkGautam/github-readme-stats)
 -->
